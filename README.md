@@ -92,4 +92,4 @@ tensorboard --logdir=.
 
 ![AR](https://user-images.githubusercontent.com/56076028/145684962-3236958f-4354-4230-b8d2-c59d18665b31.jpg)
 
-#### For all other details and errors I faced, you can see [here](https://github.com/harshitkd/Real-Time-Number-Plate-Recognition/wiki/Details-and-Errors)
+#### For all other details and errors I faced, you can see [here](https://github.com/tailwind-roshan/real-time-plate-recognition/blob/main/Error%20Guide.md)
