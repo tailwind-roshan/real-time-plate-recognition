@@ -14,7 +14,7 @@ These outline the steps I used to go through in order to get up and running with
 
 ### Install and Setup :
 
-<b>Step 1.</b> Clone this repository: https://github.com/harshitkd/Real-Time-Number-Plate-Recognition
+<b>Step 1.</b> Clone this repository: https://github.com/tailwind-roshan/real-time-plate-recognition
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
